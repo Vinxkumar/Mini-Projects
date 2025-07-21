@@ -1,0 +1,6 @@
+Kindly Install all the required Libraries.
+
+Tkinter : comes with python by default.
+torch : pip install torch
+transformers: pip install transformers
+PIL(pillow) : pip install pillow
